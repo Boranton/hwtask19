@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\hw19\hwtask19\bin\Debug\net6.0\hwtask19.exe
+C:\Users\User\Desktop\hw19\hwtask19\bin\Debug\net6.0\hwtask19.deps.json
+C:\Users\User\Desktop\hw19\hwtask19\bin\Debug\net6.0\hwtask19.runtimeconfig.json
+C:\Users\User\Desktop\hw19\hwtask19\bin\Debug\net6.0\hwtask19.dll
+C:\Users\User\Desktop\hw19\hwtask19\bin\Debug\net6.0\hwtask19.pdb
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.AssemblyInfo.cs
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.dll
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\refint\hwtask19.dll
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.pdb
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\hwtask19.genruntimeconfig.cache
+C:\Users\User\Desktop\hw19\hwtask19\obj\Debug\net6.0\ref\hwtask19.dll
